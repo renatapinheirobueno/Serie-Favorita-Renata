@@ -1,0 +1,25 @@
+p {
+  color: gray;
+  text-align: justify;
+}
+
+h1 {
+  color: pink;
+}
+
+h2 {
+  color: gray;
+}
+
+u {
+  color: black;
+}
+
+img{
+  width:400px;
+  height:400px;
+}
+
+a {
+  color: gray;
+}
